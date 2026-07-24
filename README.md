@@ -70,7 +70,7 @@ This project was developed as part of my Embedded Systems learning journey to st
 
 ![Main Menu](screenshots/add-song.png)
 
-###Load File &Display Playlist
+### Load File &Display Playlist
 
 ![Main Menu](screenshots/loadfile&display.png)
 
