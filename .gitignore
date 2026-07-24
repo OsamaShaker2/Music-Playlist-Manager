@@ -1,0 +1,5 @@
+# Build output
+build/
+
+# Generated playlist file
+data/playlist.txt
